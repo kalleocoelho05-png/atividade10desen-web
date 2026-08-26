@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <body>
+    <head>
+        <title>hobbies</title>
+    <style>
+        h3 {font-family:Arial, Helvetica, sans-serif;}
+    </style>
+    </head>
+        <h3>Sugestões de hobbies</h2>
+        <aside><strong>5 hobbies para nunca faltar assunto 😎:</strong></aside>
+        <nav>
+            <h5>
+                <ul>
+                    <li><a href="#pedal">Pedal</a></li>
+                    <li><a href="#socializar">Socializar</a></li>
+                    <li><a href="#eletricidade">Eletricidade</a></li>
+                    <li><a href="#ITA">Estudar pro ITA</a></li>
+                    <li><a href="#correr">correr</a></li>
+                </ul>
+            </h5>
+        </nav>
+            <h2 style="font-weight: normal">A seguir uma demostração dos top 5 melhores hobbies<br> para você entrar e sair de uma roda de conversa sem faltar<br> assunto!!</h2>
+            
+            <h3 id="Pedal">Bem-vindo ao nosso site!</h3>
+            <p>Tecnologia é oque fazemos de melhor!</p>
+        </section>
+        <section>
+            <h3 id="socializar">Sobre nós</h3>
+            <p>Aqui você encontra mais informaçõpes sobre nossa empresa.</p>
+        </section>
+        <section>
+            <h3 id="Eletricidade">Nossos serviçoes</h3>
+            <p>Conheça os serviços que oferecemos aos nossos clientes.</p>
+        </section>
+        <section>
+            <h3 id="ITA">Contato</h3>
+            <p>Entre em contato conosco para mais informações.</p>
+        </section>
+        <section>
+            <h3 id="correr">correr</h3>
+            <p>Entre em contato conosco para mais informações.</p>
+        </section>
+    </body>
+</html>
